@@ -1,8 +1,8 @@
 # Desafio Controle Fluxo
 
-- `src`: the folder to maintain sources
+- `src`: the folder to main sources
 
-[Instrucoes]
+[Instrucoes](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
 
 # Resumo
 
