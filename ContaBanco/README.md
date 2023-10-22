@@ -2,6 +2,10 @@
 
 [DIO - trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/sintaxe/README.md)
 
+## Estrutura
+
+`ContaBanco` se encontra em 'src'
+
 ## Sintaxe - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
